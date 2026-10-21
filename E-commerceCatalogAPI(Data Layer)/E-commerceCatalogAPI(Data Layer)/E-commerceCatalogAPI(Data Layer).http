@@ -1,0 +1,6 @@
+@E_commerceCatalogAPI_Data_Layer__HostAddress = http://localhost:5022
+
+GET {{E_commerceCatalogAPI_Data_Layer__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
